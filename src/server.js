@@ -33,7 +33,7 @@ app.set('view engine','ejs');
 app.use(morgan('dev'));
 // es la manera de que nosotros vamos a poder administrar las cokies convertirals e interpretarlas
 app.use(cookieParser());
-// es una forma de decirle que las ordenes que reciba desde el formulario la voya poder interpretar desde la URL
+// es una forma de decirle que las ordenes que reciba desde el formulario la voy a poder interpretar desde la URL
 app.use(bodyparser.urlencoded({extended:false}));
 //esto es para poder manejar las secciones de express
 app.use(session({
