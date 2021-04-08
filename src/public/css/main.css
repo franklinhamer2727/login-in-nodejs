@@ -1,0 +1,30 @@
+
+.login {
+  /*background: #56ab2f;  /* fallback for old browsers */
+  background-image: url(../img/businessman-working-with-tablet.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+
+.signup {
+
+  background-image: url(../img/breathtaking-scenery-of-the-milky-way-over-the-italian-alps.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.profile{
+  background-image: url(../img/madakaripura-waterfall-is-the-tallest-waterfall-in-java.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.index{
+  background-image: url(../img/madakaripura-waterfall-is-the-tallest-waterfall-in-java.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
